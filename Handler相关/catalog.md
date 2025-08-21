@@ -17,3 +17,11 @@
 [异步消息](q8.md)
 
 [同步屏障](q9.md)
+
+[Handler如果没有消息处理是阻塞的还是非阻塞的？](q10.md)
+
+[Handler的Callback存在，但返回true，handleMessage是否会执行？](q11.md)
+
+[IdleHandler是什么？怎么使用，能解决什么问题？](q12.md)
+
+[Looper.loop会不会阻塞主线程？](q13.md)
