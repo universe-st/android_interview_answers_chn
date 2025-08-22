@@ -1,6 +1,6 @@
 # 系统相关
 
-[请从Android开发的角度，详细阐述Android 系统启动的流程](q1.md)
+[请从Android开发的角度，详细阐述Android系统启动的流程](q1.md)
 
 [Android中多进程通信的方式有哪些？](q2.md)
 
