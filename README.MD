@@ -38,3 +38,7 @@
 
 [View相关](View相关/catalog.md)  
 
+[BroadcastReceiver相关](BroadcastReceiver相关/catalog.md)
+
+[ContentProvider相关](ContentProvider相关/catalog.md)
+
