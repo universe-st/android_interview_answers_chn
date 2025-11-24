@@ -15,6 +15,7 @@
 - [Java基础相关](Java%E5%9F%BA%E7%A1%80%E7%9B%B8%E5%85%B3/catalog.md)
 - [Kotlin相关](Kotlin%E7%9B%B8%E5%85%B3/catalog.md)
 - [Service相关](Service%E7%9B%B8%E5%85%B3/catalog.md)
+- [ViewModel相关](ViewModel%E7%9B%B8%E5%85%B3/catalog.md)
 - [View相关](View%E7%9B%B8%E5%85%B3/catalog.md)
 - [业务场景相关](%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E7%9B%B8%E5%85%B3/catalog.md)
 - [多线程相关](%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9B%B8%E5%85%B3/catalog.md)
