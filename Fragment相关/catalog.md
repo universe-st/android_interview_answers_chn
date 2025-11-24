@@ -1,8 +1,3 @@
-# Fragment相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [Fragment生命周期详解.md](Fragment生命周期详解.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [Fragment生命周期详解](Fragment%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E8%AF%A6%E8%A7%A3.md)

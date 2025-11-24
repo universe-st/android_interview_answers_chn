@@ -1,11 +1,6 @@
-# Service相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [Android Service生命周期.md](Android Service生命周期.md)
-- [Android Service使用场景.md](Android Service使用场景.md)
-- [Service与Thread区别.md](Service与Thread区别.md)
-- [IntentService vs Service.md](IntentService vs Service.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [Android Service生命周期](Android%20Service%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
+- [Android Service使用场景](Android%20Service%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+- [Service与Thread区别](Service%E4%B8%8EThread%E5%8C%BA%E5%88%AB.md)
+- [IntentService vs Service](IntentService%20vs%20Service.md)

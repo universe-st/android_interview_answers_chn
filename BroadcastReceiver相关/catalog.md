@@ -1,27 +1,22 @@
-# BroadcastReceiver相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [BroadcastReceiver指南.md](BroadcastReceiver指南.md)
-- [BroadcastReceiver注册对比.md](BroadcastReceiver注册对比.md)
-- [有序广播详解.md](有序广播详解.md)
-- [本地广播与全局广播.md](本地广播与全局广播.md)
-- [BroadcastReceiver生命周期.md](BroadcastReceiver生命周期.md)
-- [粘性广播弃用与替代.md](粘性广播弃用与替代.md)
-- [动态广播注销时机.md](动态广播注销时机.md)
-- [广播权限控制指南.md](广播权限控制指南.md)
-- [Android8静态广播限制.md](Android8静态广播限制.md)
-- [有序广播与最终接收者.md](有序广播与最终接收者.md)
-- [无序广播接收顺序.md](无序广播接收顺序.md)
-- [BroadcastReceiver Context差异.md](BroadcastReceiver Context差异.md)
-- [系统广播监听指南.md](系统广播监听指南.md)
-- [BroadcastReceiver耗时处理.md](BroadcastReceiver耗时处理.md)
-- [BroadcastReceiver vs EventBus.md](BroadcastReceiver vs EventBus.md)
-- [BroadcastReceiver安全指南.md](BroadcastReceiver安全指南.md)
-- [BroadcastReceiver优先级.md](BroadcastReceiver优先级.md)
-- [广播类型判断.md](广播类型判断.md)
-- [LocalBroadcast详解.md](LocalBroadcast详解.md)
-- [广播权限设置指南.md](广播权限设置指南.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [BroadcastReceiver指南](BroadcastReceiver%E6%8C%87%E5%8D%97.md)
+- [BroadcastReceiver注册对比](BroadcastReceiver%E6%B3%A8%E5%86%8C%E5%AF%B9%E6%AF%94.md)
+- [有序广播详解](%E6%9C%89%E5%BA%8F%E5%B9%BF%E6%92%AD%E8%AF%A6%E8%A7%A3.md)
+- [本地广播与全局广播](%E6%9C%AC%E5%9C%B0%E5%B9%BF%E6%92%AD%E4%B8%8E%E5%85%A8%E5%B1%80%E5%B9%BF%E6%92%AD.md)
+- [BroadcastReceiver生命周期](BroadcastReceiver%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
+- [粘性广播弃用与替代](%E7%B2%98%E6%80%A7%E5%B9%BF%E6%92%AD%E5%BC%83%E7%94%A8%E4%B8%8E%E6%9B%BF%E4%BB%A3.md)
+- [动态广播注销时机](%E5%8A%A8%E6%80%81%E5%B9%BF%E6%92%AD%E6%B3%A8%E9%94%80%E6%97%B6%E6%9C%BA.md)
+- [广播权限控制指南](%E5%B9%BF%E6%92%AD%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6%E6%8C%87%E5%8D%97.md)
+- [Android8静态广播限制](Android8%E9%9D%99%E6%80%81%E5%B9%BF%E6%92%AD%E9%99%90%E5%88%B6.md)
+- [有序广播与最终接收者](%E6%9C%89%E5%BA%8F%E5%B9%BF%E6%92%AD%E4%B8%8E%E6%9C%80%E7%BB%88%E6%8E%A5%E6%94%B6%E8%80%85.md)
+- [无序广播接收顺序](%E6%97%A0%E5%BA%8F%E5%B9%BF%E6%92%AD%E6%8E%A5%E6%94%B6%E9%A1%BA%E5%BA%8F.md)
+- [BroadcastReceiver Context差异](BroadcastReceiver%20Context%E5%B7%AE%E5%BC%82.md)
+- [系统广播监听指南](%E7%B3%BB%E7%BB%9F%E5%B9%BF%E6%92%AD%E7%9B%91%E5%90%AC%E6%8C%87%E5%8D%97.md)
+- [BroadcastReceiver耗时处理](BroadcastReceiver%E8%80%97%E6%97%B6%E5%A4%84%E7%90%86.md)
+- [BroadcastReceiver vs EventBus](BroadcastReceiver%20vs%20EventBus.md)
+- [BroadcastReceiver安全指南](BroadcastReceiver%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
+- [BroadcastReceiver优先级](BroadcastReceiver%E4%BC%98%E5%85%88%E7%BA%A7.md)
+- [广播类型判断](%E5%B9%BF%E6%92%AD%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD.md)
+- [LocalBroadcast详解](LocalBroadcast%E8%AF%A6%E8%A7%A3.md)
+- [广播权限设置指南](%E5%B9%BF%E6%92%AD%E6%9D%83%E9%99%90%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97.md)

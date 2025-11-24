@@ -1,11 +1,6 @@
-# JNI相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [JavaVM与JNIEnv区别.md](JavaVM与JNIEnv区别.md)
-- [Java调用C与C++原理.md](Java调用C与C++原理.md)
-- [JNI绑定方式对比.md](JNI绑定方式对比.md)
-- [JNI绑定原理.md](JNI绑定原理.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [JavaVM与JNIEnv区别](JavaVM%E4%B8%8EJNIEnv%E5%8C%BA%E5%88%AB.md)
+- [Java调用C与C++原理](Java%E8%B0%83%E7%94%A8C%E4%B8%8EC%2B%2B%E5%8E%9F%E7%90%86.md)
+- [JNI绑定方式对比](JNI%E7%BB%91%E5%AE%9A%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94.md)
+- [JNI绑定原理](JNI%E7%BB%91%E5%AE%9A%E5%8E%9F%E7%90%86.md)

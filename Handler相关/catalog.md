@@ -1,21 +1,16 @@
-# Handler相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [Handler Looper Message.md](Handler Looper Message.md)
-- [MessageQueue数据结构解析.md](MessageQueue数据结构解析.md)
-- [子线程Handler创建.md](子线程Handler创建.md)
-- [Handler.post原理.md](Handler.post原理.md)
-- [Handler postDelay原理.md](Handler postDelay原理.md)
-- [Android消息机制解析.md](Android消息机制解析.md)
-- [Message优先级调度.md](Message优先级调度.md)
-- [异步消息机制.md](异步消息机制.md)
-- [Android同步屏障详解.md](Android同步屏障详解.md)
-- [Handler消息阻塞机制.md](Handler消息阻塞机制.md)
-- [Handler Callback拦截机制.md](Handler Callback拦截机制.md)
-- [IdleHandler详解.md](IdleHandler详解.md)
-- [Looper阻塞主线程.md](Looper阻塞主线程.md)
-- [Handler内存泄漏.md](Handler内存泄漏.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [Handler Looper Message](Handler%20Looper%20Message.md)
+- [MessageQueue数据结构解析](MessageQueue%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.md)
+- [子线程Handler创建](%E5%AD%90%E7%BA%BF%E7%A8%8BHandler%E5%88%9B%E5%BB%BA.md)
+- [Handler.post原理](Handler.post%E5%8E%9F%E7%90%86.md)
+- [Handler postDelay原理](Handler%20postDelay%E5%8E%9F%E7%90%86.md)
+- [Android消息机制解析](Android%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6%E8%A7%A3%E6%9E%90.md)
+- [Message优先级调度](Message%E4%BC%98%E5%85%88%E7%BA%A7%E8%B0%83%E5%BA%A6.md)
+- [异步消息机制](%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6.md)
+- [Android同步屏障详解](Android%E5%90%8C%E6%AD%A5%E5%B1%8F%E9%9A%9C%E8%AF%A6%E8%A7%A3.md)
+- [Handler消息阻塞机制](Handler%E6%B6%88%E6%81%AF%E9%98%BB%E5%A1%9E%E6%9C%BA%E5%88%B6.md)
+- [Handler Callback拦截机制](Handler%20Callback%E6%8B%A6%E6%88%AA%E6%9C%BA%E5%88%B6.md)
+- [IdleHandler详解](IdleHandler%E8%AF%A6%E8%A7%A3.md)
+- [Looper阻塞主线程](Looper%E9%98%BB%E5%A1%9E%E4%B8%BB%E7%BA%BF%E7%A8%8B.md)
+- [Handler内存泄漏](Handler%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F.md)

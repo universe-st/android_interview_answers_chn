@@ -1,35 +1,29 @@
-# 项目文档目录
+# 项目文档索引
 
-本文档自动生成，列出了项目中所有文档目录的索引。
+以下是各子目录的文档索引：
 
-## 子目录文档
-
-- [Activity相关](./Activity相关/catalog.md)
-- [BroadcastReceiver相关](./BroadcastReceiver相关/catalog.md)
-- [C++相关](./C++相关/catalog.md)
-- [Compose相关](./Compose相关/catalog.md)
-- [ContentProvider相关](./ContentProvider相关/catalog.md)
-- [Crash相关](./Crash相关/catalog.md)
-- [Fragment相关](./Fragment相关/catalog.md)
-- [Handler相关](./Handler相关/catalog.md)
-- [JNI相关](./JNI相关/catalog.md)
-- [JVM相关](./JVM相关/catalog.md)
-- [Java基础相关](./Java基础相关/catalog.md)
-- [Kotlin相关](./Kotlin相关/catalog.md)
-- [Service相关](./Service相关/catalog.md)
-- [View相关](./View相关/catalog.md)
-- [业务场景相关](./业务场景相关/catalog.md)
-- [多线程相关](./多线程相关/catalog.md)
-- [常用类相关](./常用类相关/catalog.md)
-- [性能优化相关](./性能优化相关/catalog.md)
-- [热更新相关](./热更新相关/catalog.md)
-- [第三方库相关](./第三方库相关/catalog.md)
-- [算法与数据结构相关](./算法与数据结构相关/catalog.md)
-- [系统相关](./系统相关/catalog.md)
-- [网络相关](./网络相关/catalog.md)
-- [设计模式相关](./设计模式相关/catalog.md)
-- [项目构建相关](./项目构建相关/catalog.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
-*本文档由脚本自动生成*
+- [Activity相关](Activity%E7%9B%B8%E5%85%B3/catalog.md)
+- [BroadcastReceiver相关](BroadcastReceiver%E7%9B%B8%E5%85%B3/catalog.md)
+- [C++相关](C%2B%2B%E7%9B%B8%E5%85%B3/catalog.md)
+- [Compose相关](Compose%E7%9B%B8%E5%85%B3/catalog.md)
+- [ContentProvider相关](ContentProvider%E7%9B%B8%E5%85%B3/catalog.md)
+- [Crash相关](Crash%E7%9B%B8%E5%85%B3/catalog.md)
+- [Fragment相关](Fragment%E7%9B%B8%E5%85%B3/catalog.md)
+- [Handler相关](Handler%E7%9B%B8%E5%85%B3/catalog.md)
+- [JNI相关](JNI%E7%9B%B8%E5%85%B3/catalog.md)
+- [JVM相关](JVM%E7%9B%B8%E5%85%B3/catalog.md)
+- [Java基础相关](Java%E5%9F%BA%E7%A1%80%E7%9B%B8%E5%85%B3/catalog.md)
+- [Kotlin相关](Kotlin%E7%9B%B8%E5%85%B3/catalog.md)
+- [Service相关](Service%E7%9B%B8%E5%85%B3/catalog.md)
+- [View相关](View%E7%9B%B8%E5%85%B3/catalog.md)
+- [业务场景相关](%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E7%9B%B8%E5%85%B3/catalog.md)
+- [多线程相关](%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9B%B8%E5%85%B3/catalog.md)
+- [常用类相关](%E5%B8%B8%E7%94%A8%E7%B1%BB%E7%9B%B8%E5%85%B3/catalog.md)
+- [性能优化相关](%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/catalog.md)
+- [热更新相关](%E7%83%AD%E6%9B%B4%E6%96%B0%E7%9B%B8%E5%85%B3/catalog.md)
+- [第三方库相关](%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E7%9B%B8%E5%85%B3/catalog.md)
+- [算法与数据结构相关](%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9B%B8%E5%85%B3/catalog.md)
+- [系统相关](%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/catalog.md)
+- [网络相关](%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/catalog.md)
+- [设计模式相关](%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9B%B8%E5%85%B3/catalog.md)
+- [项目构建相关](%E9%A1%B9%E7%9B%AE%E6%9E%84%E5%BB%BA%E7%9B%B8%E5%85%B3/catalog.md)

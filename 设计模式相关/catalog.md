@@ -1,10 +1,5 @@
-# 设计模式相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [设计模式对比MVP MVC MVVM.md](设计模式对比MVP MVC MVVM.md)
-- [责任链模式详解.md](责任链模式详解.md)
-- [建造者模式详解.md](建造者模式详解.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [设计模式对比MVP MVC MVVM](%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AF%B9%E6%AF%94MVP%20MVC%20MVVM.md)
+- [责任链模式详解](%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3.md)
+- [建造者模式详解](%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3.md)

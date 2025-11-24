@@ -1,20 +1,15 @@
-# Compose相关 目录
+# 目录
 
-本文档自动生成，列出了本目录下的所有Markdown文件。
-
-- [Jetpack Compose 对比.md](Jetpack Compose 对比.md)
-- [Composable函数特点.md](Composable函数特点.md)
-- [Compose状态与记忆.md](Compose状态与记忆.md)
-- [状态提升指南.md](状态提升指南.md)
-- [remember与rememberSaveable区别.md](remember与rememberSaveable区别.md)
-- [Compose Modifier详解.md](Compose Modifier详解.md)
-- [Compose副作用处理.md](Compose副作用处理.md)
-- [Compose重组机制.md](Compose重组机制.md)
-- [Compose性能优化指南.md](Compose性能优化指南.md)
-- [CompositionLocal详解.md](CompositionLocal详解.md)
-- [Compose导航指南.md](Compose导航指南.md)
-- [Compose调试指南.md](Compose调试指南.md)
-- [LiveData vs StateFlow.md](LiveData vs StateFlow.md)
-
----
-*最后更新于: 2025-11-24 10:52:21*
+- [Jetpack Compose 对比](Jetpack%20Compose%20%E5%AF%B9%E6%AF%94.md)
+- [Composable函数特点](Composable%E5%87%BD%E6%95%B0%E7%89%B9%E7%82%B9.md)
+- [Compose状态与记忆](Compose%E7%8A%B6%E6%80%81%E4%B8%8E%E8%AE%B0%E5%BF%86.md)
+- [状态提升指南](%E7%8A%B6%E6%80%81%E6%8F%90%E5%8D%87%E6%8C%87%E5%8D%97.md)
+- [remember与rememberSaveable区别](remember%E4%B8%8ErememberSaveable%E5%8C%BA%E5%88%AB.md)
+- [Compose Modifier详解](Compose%20Modifier%E8%AF%A6%E8%A7%A3.md)
+- [Compose副作用处理](Compose%E5%89%AF%E4%BD%9C%E7%94%A8%E5%A4%84%E7%90%86.md)
+- [Compose重组机制](Compose%E9%87%8D%E7%BB%84%E6%9C%BA%E5%88%B6.md)
+- [Compose性能优化指南](Compose%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97.md)
+- [CompositionLocal详解](CompositionLocal%E8%AF%A6%E8%A7%A3.md)
+- [Compose导航指南](Compose%E5%AF%BC%E8%88%AA%E6%8C%87%E5%8D%97.md)
+- [Compose调试指南](Compose%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97.md)
+- [LiveData vs StateFlow](LiveData%20vs%20StateFlow.md)
