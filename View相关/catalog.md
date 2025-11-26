@@ -22,3 +22,5 @@
 - [ScrollView嵌套RecyclerView问题](ScrollView%E5%B5%8C%E5%A5%97RecyclerView%E9%97%AE%E9%A2%98.md)
 - [View.inflate解析](View.inflate%E8%A7%A3%E6%9E%90.md)
 - [异步Inflater详解](%E5%BC%82%E6%AD%A5Inflater%E8%AF%A6%E8%A7%A3.md)
+- [界面渲染流程](%E7%95%8C%E9%9D%A2%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B.md)
+- [ViewGroup和View的dispatchTouchEvent的区别](ViewGroup%E5%92%8CView%E7%9A%84dispatchTouchEvent%E7%9A%84%E5%8C%BA%E5%88%AB.md)
